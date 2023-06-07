@@ -2,7 +2,6 @@
 ## Eu sou Gabriel Carneiro, Engenheiro de Software Junior 💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erudhir101&show_icons=true&theme=dracula&border_radius=20&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erudhir101&layout=default&theme=dracula&border_radius=20&text_color=ffefef&langs_count=3&card_width=500)
 
 ### Tecnologias e Ferramentas
 
